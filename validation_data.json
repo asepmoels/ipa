@@ -1,0 +1,63 @@
+{
+  "dataVersion" : 1,
+  "independentSegments" : false,
+  "parsedSegmentsCount" : 1,
+  "discontinuities" : [
+    {
+      "segments" : [
+        {
+          "discontinuityDomain" : 0,
+          "segmentByteRangeLength" : 0,
+          "url" : "http:\/\/180.250.29.12\/dumb0.ts",
+          "dataID" : 1,
+          "videoFrameRate" : 25,
+          "segmentCryptMethod" : "NONE",
+          "videoStartsWithIDR" : true,
+          "segmentDurationTag" : 5.52,
+          "mediaSequence" : 0,
+          "sslContentDeliveredSecurely" : false,
+          "segmentByteRangeOffset" : 0
+        }
+      ],
+      "measurements" : {
+        "measuredMaxBitrate" : 389078.2608695652,
+        "measuredMeanBitrate" : 389078.2608695652
+      },
+      "tracks" : [
+        {
+          "trackVideoIDRStandardDeviation" : 0.05999999999999994,
+          "trackId" : 1,
+          "trackVideoWidth" : 640,
+          "trackVideoLevel" : 21,
+          "trackVideoHeight" : 288,
+          "trackMediaType" : "vide",
+          "trackVideoIDRInterval" : 1.58,
+          "trackVideoIsInterlaced" : false,
+          "trackVideoProfile" : 100,
+          "trackMediaSubType" : "avc1"
+        },
+        {
+          "trackMediaType" : "soun",
+          "trackAudioChannelCount" : 2,
+          "trackId" : 2,
+          "trackAudioSampleRate" : 48000,
+          "trackMediaSubType" : "aac ",
+          "trackAudioChannelLayout" : "Stereo (L R)"
+        }
+      ]
+    }
+  ],
+  "gzipEncoded" : false,
+  "hasDiscSequenceTag" : false,
+  "measuredMaxBitrate" : 389078,
+  "url" : "http:\/\/118.97.167.8\/tvod\/1509382800\/1509388200\/antv.m3u8?stime=20171031070000",
+  "playlistKind" : "media",
+  "validatorTimestamp" : "2017-10-31T14:54:13+07:00",
+  "sslContentDeliveredSecurely" : false,
+  "validatorVersion" : "1.2(160525)",
+  "dataID" : 0,
+  "processedSegmentsCount" : 1,
+  "playlistTargetDuration" : 6,
+  "hasEndTag" : true,
+  "measuredMeanBitrate" : 389078
+}
